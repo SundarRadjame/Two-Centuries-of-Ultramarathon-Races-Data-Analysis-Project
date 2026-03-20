@@ -9,15 +9,11 @@ The primary objective is to transform raw race records into a reliable, analysis
 
 ## 🛠️ Tools & Technologies
 
-- Python
-
-- Jupyter Notebook
-
-- Pandas
-
-- NumPy
-
-- Matplotlib / Seaborn (if used for basic visuals)
+- 🐍 **Python** – Data cleaning and analysis  
+- 📊 **Pandas, NumPy** – Data manipulation  
+- 📈 **Matplotlib, Seaborn** – Visualization  
+- 📑 **YData Profiling** – Automated EDA report generation  
+- 📓 **Jupyter Notebook** – Analysis workflow  
 
 ## 🔍 Detailed Analysis Description
 
